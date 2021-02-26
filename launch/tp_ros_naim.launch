@@ -1,0 +1,7 @@
+<launch>
+    <node name="pub" pkg="tp_ros_naim" type="button_node.py" />
+    <node name="sub" pkg="tp_ros_naim" type="talker.py" output="screen" >
+        <remap from = "" to =""/>
+    </node>
+    <node type="rviz" name="rviz" pkg="rviz" args="-d $(tp_ros_naim)/rviz/config_file.rviz" />
+</launch>
