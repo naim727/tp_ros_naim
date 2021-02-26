@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/master/catkin_ws/src/tp_ros_naim/install/setup.sh

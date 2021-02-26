@@ -1,0 +1,12 @@
+Symlinking /home/master/catkin_ws/src/tp_ros_naim/devel/./setup.sh
+Symlinking /home/master/catkin_ws/src/tp_ros_naim/devel/./_setup_util.py
+Symlinking /home/master/catkin_ws/src/tp_ros_naim/devel/./cmake.lock
+Symlinking /home/master/catkin_ws/src/tp_ros_naim/devel/./local_setup.sh
+Symlinking /home/master/catkin_ws/src/tp_ros_naim/devel/./env.sh
+Symlinking /home/master/catkin_ws/src/tp_ros_naim/devel/./setup.zsh
+Symlinking /home/master/catkin_ws/src/tp_ros_naim/devel/./local_setup.zsh
+Symlinking /home/master/catkin_ws/src/tp_ros_naim/devel/./local_setup.bash
+Symlinking /home/master/catkin_ws/src/tp_ros_naim/devel/./setup.bash
+Symlinking /home/master/catkin_ws/src/tp_ros_naim/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/master/catkin_ws/src/tp_ros_naim/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/master/catkin_ws/src/tp_ros_naim/devel/lib/pkgconfig/catkin_tools_prebuild.pc

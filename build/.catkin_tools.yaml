@@ -1,0 +1,6 @@
+devel_space: /home/master/catkin_ws/src/tp_ros_naim/devel
+install: false
+install_space: /home/master/catkin_ws/src/tp_ros_naim/install
+profile: default
+source_space: /home/master/catkin_ws/src/tp_ros_naim/src
+workspace: /home/master/catkin_ws/src/tp_ros_naim
